@@ -1,8 +1,10 @@
+import { PageDiv } from "../styled/PageDiv";
+
 const Main = () => {
   return (
-    <div>
+    <PageDiv>
       <h1>HI</h1>
-    </div>
+    </PageDiv>
   );
 };
 export default Main;
